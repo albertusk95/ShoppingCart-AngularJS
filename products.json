@@ -1,92 +1,87 @@
 [
-    [
-		"type": "laptop",
-		"products":
-			[
-				{
-					"name": "DELL",
-					"price": 9000000 
-				},
-				{
-					"name": "Acer",
-					"price": 8000000
-				},
-				{
-					"name": "Lenovo",
-					"price": 7000000
-				}
-			]
-    ],
-	[
-		"type": "smartphone",
-		"products":
-			[
-				{
-					"name": "Android",
-					"price": 9000000
-				},
-				{
-					"name": "iPhone",
-					"price": 8000000
-				},
-				{
-					"name": "Blackberry",
-					"price": 7000000
-				}
-			]
-	],
-	[
-		"type": "book",
-		"products":
-			[
-				{
-					"name": "Science",
-					"price": 9000000
-				},
-				{
-					"name": "Novel",
-					"price": 8000000
-				},
-				{
-					"name": "Motivational",
-					"price": 7000000
-				}
-			]
-	],
-	[
-		"type": "clothing",
-		"products":
-			[
-				{
-					"name": "T-shirt",
-					"price": 9000000
-				},
-				{
-					"name": "Jacket",
-					"price": 8000000
-				},
-				{
-					"name": "Sweater",
-					"price": 7000000
-				}
-			]
-	],
-	[
-		"type": "furniture",
-		"products":
-			[
-				{
-					"name": "Table",
-					"price": 9000000
-				},
-				{
-					"name": "Chair",
-					"price": 8000000
-				},
-				{
-					"name": "Cupboard",
-					"price": 7000000
-				}
-			]
-	]
+   [
+      "type":"laptop",
+      "products":[
+         {
+            "name":"DELL",
+            "price":9000000
+         },
+         {
+            "name":"Acer",
+            "price":8000000
+         },
+         {
+            "name":"Lenovo",
+            "price":7000000
+         }
+      ]
+   ],
+   [
+      "type":"smartphone",
+      "products":[
+         {
+            "name":"Android",
+            "price":9000000
+         },
+         {
+            "name":"iPhone",
+            "price":8000000
+         },
+         {
+            "name":"Blackberry",
+            "price":7000000
+         }
+      ]
+   ],
+   [
+      "type":"book",
+      "products":[
+         {
+            "name":"Science",
+            "price":9000000
+         },
+         {
+            "name":"Novel",
+            "price":8000000
+         },
+         {
+            "name":"Motivational",
+            "price":7000000
+         }
+      ]
+   ],
+   [
+      "type":"clothing",
+      "products":[
+         {
+            "name":"T-shirt",
+            "price":9000000
+         },
+         {
+            "name":"Jacket",
+            "price":8000000
+         },
+         {
+            "name":"Sweater",
+            "price":7000000
+         }
+      ]
+   ],
+   [
+      "type":"furniture",
+      "products":[
+         {
+            "name":"Table",
+            "price":9000000
+         },
+         {
+            "name":"Chair",
+            "price":8000000
+         },
+         {
+            "name":"Cupboard",
+            "price":7000000
+         }
+      ]
+   ]
 ]
