@@ -1,0 +1,25 @@
+{
+  "name": "shoppingular",
+  "version": "0.0.0",
+  "description": "A simple shopping cart using AngularJS",
+  "engines": {
+    "node": "4.4.7"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "angular-route": "1.5.7",
+    "express": "4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albertusk95/ShoppingCart-AngularJS"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
